@@ -1,0 +1,58 @@
+Project Plan -- 1.25.2024 -- for MSU Bootcamp Project 1 -- ROUGH DRAFT
+
+
+What are we looking to solve for: "How did hosting the Super Bowl affect cities - did it lead to positive or negative outcomes?"
+
+Cities: Atlanta, Tampa, New Orleans, San Diego, Houston
+Years: 2000, 2001, 2002, 2003, 2004
+
+Main Question for All Cities:
+How did hosting the Super Bowl positively or negatively impact the economic health of the city?
+--This question is central to our project and will need help answering this question by supporting questions.
+
+EXAMPLES OF SUPPORTING QUESTIONS:
+
+1. Employment Changes: How did employment rates in key sectors (like hospitality, retail, and transportation) change in the months before, during, and after the Super Bowl?
+Visualization Ideas: Charts showing employment rate trends in these sectors.
+
+2. Income and Business Revenue Fluctuations: What were the changes in median household income and local business revenues in the city during the same periods?
+Visualization Ideas: Graphs depicting changes in median household income and business revenues.
+
+3. Population and Demographic Shifts: Were there any significant changes in the city's population size or demographic composition around the time of the Super Bowl?
+Visualization Ideas: Demographic pie charts or population growth/decline graphs.
+
+Expanding on the data:
+1. we could choose three cities within each metropolitan for household median income or per capita income for each city - The Highest, Middle, and Lowest, which turns our 5 cities into 15 data points.  
+2. Creating Time Intevals to add to each city analysis.
+
+Time Intervals for Analysis:
+6 Months Leading up to the Super Bowl: To capture the preparatory phase and anticipatory economic activities.
+Month of the Super Bowl: Focusing on the immediate impact during the event.
+6 Months After the Super Bowl: To observe short-term post-event effects.
+1 Year After the Super Bowl: To assess longer-term economic impacts.
+
+What this data would look like in a couple different ways:
+Date (2000)	Metric	Atlanta (A)	Highest Median City (X)	Middle Median City (Y)	Lowest Median City (Z)
+7/1/2019	Employment Rate (%)	93.5	95	91.5	88.5
+7/1/2019	Median Household Income	49,500	69,500	44,500	29,500
+7/1/2019	Population Size	448,000	498,000	348,000	198,000
+8/1/2019	Employment Rate (%)	93.7	95.2	91.7	88.7
+8/1/2019	Median Household Income	49,750	69,750	44,750	29,750
+8/1/2019	Population Size	448,500	498,500	348,500	198,500
+…	...	...	...	...	...
+1/1/2000	Employment Rate (%)	94	95.5	92	89
+1/1/2000	Median Household Income	50,000	70,000	45,000	30,000
+1/1/2000	Population Size	450,000	500,000	350,000	200,000
+
+or a summary table like this:
+Metric	Atlanta (A)	Highest Median City (X)	Middle Median City (Y)	Lowest Median City (Z)
+Pre-Super Bowl (6 Months)				
+Employment Rate (%)	94	95.5	92	89
+Median Household Income (USD)	50,000	70,000	45,000	30,000
+Population Size	450,000	500,000	350,000	200,000
+During Super Bowl (Month)				
+Employment Rate (%)	94.5	95.7	92.2	89.2
+Median Household Income (USD)	51,000	71,000	46,000	30,500
+Population Size	455,000	505,000	355,000	202,000
+
+And thats just for three metrics of employment rate, median household income, and population size, we can do a lot more than that!
