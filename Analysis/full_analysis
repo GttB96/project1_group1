@@ -1,4 +1,4 @@
-
+Key Analysis:
 
 
 
@@ -46,3 +46,8 @@ The calculated correlation coefficient (r-value) quantified the strength and dir
 A positive or negative correlation coefficient, along with the regression line's slope, provides valuable insights into the nature of the relationship. For instance, a negative correlation indicates that as song duration increases, popularity tends to decrease, and vice versa.
 In conclusion, the linear regression analysis offers a quantitative understanding of the relationship between song duration and popularity.
 These insights can be leveraged for decision-making in the music industry, such as optimizing song lengths for audience engagement.
+
+Genre Analysis:
+
+
+In Summary:
