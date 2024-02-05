@@ -1,1 +1,18 @@
+Not finished yet just typed ideas out
 
+Key Analysis:
+
+The key data was first assigned the proper letter key to the numerical key in the original data. The bins were then used to catgeorize the different levels of popularity.
+
+Using the pie charts we were able to calculate and look at the average percentage of each key in each bin. 
+Using the bar charts we were able to look at the total count of songs for each key and each bin.
+  Most Popular (90-100): The graphs suggest that G, A#, F#, and C# hold the largest sections of the entire bin. 
+  Mid to High Popular (60-90): The graphs suggest that C# and C hold the largest sections of the entire bin.
+  Low to Mid Popular (30-59: The graphs suggest that C# and C hold the largest sections of the entire bin.
+  Least Popular (<30): The graphs suggest that G, C# and C hold the largest sections of the entire bin.
+
+Throughout the entire data set C#, C, G, and A# have the largest amount of songs written in this key so they are more likely to hold the higher 
+
+Although the data would suggest these keys would be the best to write a song in because of their higher numbers of popularity the r-value shows us that there is no correlation between
+the popularity of a song and the key the song is written in. The key's that were able to look the most popular in the data also had a larger number of songs written compared to the other
+keys in the data. 
