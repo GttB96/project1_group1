@@ -1,0 +1,21 @@
+
+
+
+Duration Analysis
+1.- Bar chart
+The approach is to calculate the mean duration for each popularity sector and observe any trends that way we can determine if song duration is related to popularity and visualizes the results in a bar chart
+Conclusion: We can see differences in song duration across different popularity sectors, there is a significant relationship between song duration and popularity where the longer the duration, the lower popularity.
+2.- Scatter plots:
+2.1.-Creating scatter plots is a great way to visually assess the relationship between song duration and popularity. Looks like there may be a negative trend, on average, longer songs might be associated with lower popularity.
+We use matplotlib to generate scatter plots.
+2.2.-Color:
+This code uses seaborn.scatterplot to create a scatter plot with different colors
+for each popularity sector, and the x-axis is labeled as "Duration (min)".
+We see points scattered across the plot, each representing a song, and the
+colors indicates the popularity sector.
+Same results, Longer songs might be associated with lower popularity.
+3.- Linear Regression Plot (scatter plot)
+The calculated correlation coefficient (r-value) quantified the strength and direction of the linear relationship. A positive correlation suggests that, on average, longer songs might be associated with higher popularity, while a negative correlation implies the opposite. In this case, we have a negative correlation, so longer songs are not associated with higher popularity.
+A positive or negative correlation coefficient, along with the regression line's slope, provides valuable insights into the nature of the relationship. For instance, a negative correlation indicates that as song duration increases, popularity tends to decrease, and vice versa.
+In conclusion, the linear regression analysis offers a quantitative understanding of the relationship between song duration and popularity.
+These insights can be leveraged for decision-making in the music industry, such as optimizing song lengths for audience engagement.
