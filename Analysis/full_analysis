@@ -3,46 +3,32 @@
 
 
 
-
+Loudness Analysis:
 Statistical Summary for Loudness Related to Popularity:
-
 Central Tendency: The median loudness across all songs is -6.166 dB, with the mean slightly lower at -6.719 dB. This suggests that the loudness distribution is slightly skewed towards lower values, but not significantly.
-
 Variability: The standard deviation is relatively small (2.988 dB), indicating that most songs have a loudness level close to the mean.
-
 Range: The range of loudness is quite wide, from -46.448 dB to 1.275 dB, showing that there is a significant variation in the loudness of songs in the dataset.
 
 Loudness Stats by Popularity Sector:
-
 Least Popular (<30): Median loudness is very close to the overall median, with a slightly higher mean and similar standard deviation. This indicates a consistent loudness profile with the overall dataset.
-
 Low to Mid Popular (30-59): Similar loudness metrics to the least popular songs, with an identical mean and a very close median. The standard deviation is slightly larger, indicating a bit more variability in this group.
-
 Mid to High Popular (60-89): A higher median and mean loudness than the less popular categories, suggesting that songs in this group tend to be louder.
-
 Most Popular (90-100): The median and mean loudness are closer to the mid to high popular group, but the standard deviation is smaller, suggesting less variability in loudness among the most popular songs.
 
 Box Plot and Histogram Observations:
-
 The box plot shows that the median loudness is slightly higher for more popular songs, but not by a substantial margin.
-
 The histograms display a general trend where the distribution of loudness shifts slightly towards higher loudness levels as popularity increases.
 
 Correlation and Regression Analysis:
-
 A correlation coefficient (r) of 0.06 suggests a very weak positive relationship between loudness and popularity.
-
 The regression formula suggests that an increase in loudness is associated with a slight increase in popularity. However, the small coefficient for loudness (0.48) in the regression equation also indicates a weak effect.
 
 Final Conclusion:
-
 While there is a slight tendency for more popular songs to be louder, the relationship is not strong. The statistical analysis, visualized by the box plot and histograms, shows that while there is some variation in loudness across popularity sectors, it does not change dramatically. The weak correlation coefficient further supports this finding.
-
 The presence of songs with a wide range of loudness within each popularity bin suggests that factors other than loudness are more influential in determining a song's popularity. Loudness may contribute slightly to a song's success, but it is likely one of many elements, such as genre, artist name recognition, marketing, and playlist placement, that have a more significant impact.
-
 In summary, loudness has a weak and statistically insignificant correlation with popularity in this Spotify dataset. It plays a role in song popularity, but it is not a decisive factor.
 
-Duration Analysis
+Duration Analysi:
 1.- Bar chart
 The approach is to calculate the mean duration for each popularity sector and observe any trends that way we can determine if song duration is related to popularity and visualizes the results in a bar chart
 Conclusion: We can see differences in song duration across different popularity sectors, there is a significant relationship between song duration and popularity where the longer the duration, the lower popularity.
