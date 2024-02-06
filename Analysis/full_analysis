@@ -1,7 +1,22 @@
 Key Analysis:
 
+The key data was first assigned the proper letter key to the numerical key in the original data. 
+The bins were then used to catgeorize the different levels of popularity.
 
+Using the pie charts we were able to calculate and look at the percentage of each key in each bin. 
+Using the bar charts we were able to look at the total count of songs for each key and each bin.
+  Most Popular (90-100): The graphs suggest that G, A#, F#, and C# hold the largest sections of the entire bin. 
+  Mid to High Popular (60-90): The graphs suggest that C# and C hold the largest sections of the entire bin.
+  Low to Mid Popular (30-59: The graphs suggest that C# and C hold the largest sections of the entire bin.
+  Least Popular (<30): The graphs suggest that G, C# and C hold the largest sections of the entire bin.
 
+The r-value shows us that there is no correlation between the popularity of a song and the key the song is written in. 
+The r-value is not the best way to look at categorical data like the letter keys. The data collected and shown in the bar charts and pie charts though,
+would suggest that it is more likely that a song would be written and become most popular in G, A#, F# and C#. Besides the r-value showing zero correlation
+we can see that they key of a song does not determine the popularity of the song when we look at how specific keys are spread between each Popularity Sector.
+For example 75% of key G songs are considered to be either Least Popular or Low to Mid Popular. This would suggest that a song written in G would likely not become popular
+yet key G also holds the largets percentage of most popular songs. This is also shown in the fact that the stand out keys in each Popularity Sector hold stable for example C#
+being in all four Popularity Sectors.
 
 Loudness Analysis:
 Statistical Summary for Loudness Related to Popularity:
