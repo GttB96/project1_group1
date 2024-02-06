@@ -48,6 +48,40 @@ In conclusion, the linear regression analysis offers a quantitative understandin
 These insights can be leveraged for decision-making in the music industry, such as optimizing song lengths for audience engagement.
 
 Genre Analysis:
+Analysis for Genre
+Based on a pie chart of the count of tracks by genre, each genre is represented 
+evenly amongst the data.  The rap genre has the highest representation at 17.5% 
+with the rock genre at the lowest 15.1%.
+Since, genre is a categorical field it is not feasible to generate a linear regression 
+plot.  Box plots were used to determine if there is a correlation between genre and 
+popularity.  There is a slight correlation based on genre with latin and pop having 
+higher popularity overall than other genres.
+The popularity by genre can be shown to change over time.  We plotted the 
+popularity of each genre by decade to represent these trends.  It is clear that pop 
+was the most popular genre in the 1960s, while latin surpassed pop in the 1970s by 
+a slim margin.  Rock was the most popular genre in both the 1980s and 1990s but 
+again by a slight margin over pop.  By the 2000s latin and pop took over the top 
+spot and both were surpassed slightly by rap in the 2010s.
+A line plot was generated to dive deeper into the recent trends of genre popularity.  
+Looking at the popularity trends from 2011 to 2020 it is clear that pop and rock 
+have had the most consistent popularity scores.  Latin popularity was rather steady 
+around 40 until 2016 and peaked at over 55 in 2019.  EDM has remained amongst 
+the lowest in popularity but has continued to rise in popularity.  R&B went from 
+among the lowest in popularity to rising to the top in 2019/2010.  While Rap steadily
+rose until it reached the top in 2020.
+It is clear that genre does have a correlation to popularity, however this correlation 
+can change over time.  This is likely influenced by trending artists and age 
+demographics of the consumer base.  It would be an interesting follow up study to 
+compare average age of spotify consumers as it correlates to this data.  Another 
+follow up may be to look at ethnicity of consumers. 
+Analysis of data overall
+- The mean of the popularity is 39.43 while the median is 42.0.  This shows 
+that the data is skewed to the left and the median is a better representation 
+of the data.  
+- Digging deeper this is a result of approximately 2700 tracks having a 
+popularity score of 0.  
+- No outliers were identified in the data set.  Outliers would have been below -
+25.5 and 106.5.  All of the popularity scores were within 0 and 100
 
 
 In Summary:
