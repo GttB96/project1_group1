@@ -7,7 +7,10 @@ Using Spotify data from 30,000 spotify songs we looked to see if there is a corr
 4. Genre
 5. Loudness
 
-Requirements
+The source we used for our data was: https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs 
+
+
+Requirements:
 Completed Analysis Uploaded to GitHub (20 points)
 Final data analysis contains ample and complete information in README file (10 points)
 Final repository is acceptable for professional quality presentation (10 points)
